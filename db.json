@@ -1,0 +1,8 @@
+{
+    "templates": [
+      { "id": 1, "name": "Template 1", "description": "A basic template" },
+      { "id": 2, "name": "Template 2", "description": "An advanced template" }
+    ]
+  }
+  
+  
